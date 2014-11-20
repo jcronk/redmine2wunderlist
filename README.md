@@ -1,6 +1,6 @@
 # Redmine2wunderlist
 
-TODO: Write a gem description
+Synchronize (my) redmine issues with (my) Wunderlist task list
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+No one will ever want or need to use this.  If you have a use for it, for some bizarre reason, let me know, and I'll clean it up and add better docs.  
 
 ## Contributing
 
